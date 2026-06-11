@@ -1,7 +1,7 @@
 # Shopify Sales & Customer Funnel Analysis Dashboard
 
 ## Project Overview
-Developed an interactive Power BI dashboard to analyze Shopify sales performance, customer purchasing behavior, product performance, regional sales distribution, and payment gateway preferences. The dashboard provides actionable business insights by tracking revenue trends, customer retention, customer lifetime value, product category performance, and geographic sales distribution.
+46% repeat rate and $943 LTV on a $562 AOV suggests healthy retention economics — this dashboard was built to identify which products, regions, and channels are driving that loyalty. Developed an interactive Power BI dashboard to analyze Shopify sales performance, customer purchasing behavior, product performance, regional sales distribution, and payment gateway preferences. The dashboard provides actionable business insights by tracking revenue trends, customer retention, customer lifetime value, product category performance, and geographic sales distribution.
 
 ## Tools Used
 - Power BI
